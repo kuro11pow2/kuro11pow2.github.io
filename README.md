@@ -8,7 +8,7 @@
 ## 설치 
 [참고](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-### Ruby, Jeykyll, bundler 설치하기
+### Ruby, Jekyll, bundler 설치하기
 ```bash
 $ sudo apt install ruby ruby-dev build-essential
 $ gem install jekyll bundler
