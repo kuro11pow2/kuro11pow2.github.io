@@ -6,4 +6,10 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic'); // 구글 웹 폰트에서 나눔 고딕 폰트 로드
+
+// max-width: 760px을 오버라이딩함
+.utterances {
+    max-width: 100% !important;
+}
