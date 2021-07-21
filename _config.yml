@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuropow"
-  avatar           : "/assets/img/profile_img.png"
+  avatar           : "/assets/img/profile_img.webp"
   bio              : "개발자~"
   location         : "South Korea"
   email            : "kuro11pow2@gmail.com"
