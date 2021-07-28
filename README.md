@@ -1,7 +1,4 @@
-# 블로그~
-
-## 할 일
-* 없음
+# 블로그!
 
 ## 브랜치 관리 규칙
 * main: 글쓰기 또는 README.md 수정
@@ -14,14 +11,13 @@
 ### Ruby, Jekyll, bundler 설치하기
 ```bash
 $ sudo apt install ruby ruby-dev build-essential
-$ gem install jekyll bundler
+$ sudo gem install jekyll bundler
 ```
 
 ### gemfile 변경 사항 있는 경우
 ```bash
 $ bundle install
 ```
-
 
 ## 실행
 ```bash
