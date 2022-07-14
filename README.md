@@ -1,10 +1,3 @@
-# 블로그!
-
-## 브랜치 관리 규칙
-* main: 글쓰기 또는 README.md 수정
-* develop: 그밖의 작은 수정
-* feature: 큰 기능 추가
-
 ## 설치 
 [참고](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
